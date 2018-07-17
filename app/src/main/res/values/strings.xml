@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="user_name">ydkim2110@gmail.com</string>
+    <string name="nav_inbox">Messages</string>
+    <string name="nav_drafts">Drafts</string>
+    <string name="nav_sent">Sent Messages</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_feedback">Give us feedback</string>
+    
+    <string name="nav_open_drawer">Open Navigation drawer</string>
+    <string name="nav_close_drawer">Close Navigation drawer</string>
+
+</resources>
