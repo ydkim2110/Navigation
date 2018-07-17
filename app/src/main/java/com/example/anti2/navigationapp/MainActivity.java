@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
         }
 
-        if(fragment != null) {
+        if(fragment != null) { //
             FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
             ft.replace(R.id.content_frame, fragment);
             ft.commit();
